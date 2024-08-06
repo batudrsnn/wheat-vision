@@ -1,2 +1,3 @@
-# wheat-vision
-Counting of wheat spikes and spikelets based on deep learning and computer vision
+# Abstract
+The computer vision and artificial intelligence have been used with various tech- niques for high-throughput plant phenotyping in research and industry. Among different plant parts, the yield has the highest importance. This study utilizes a deep learning approach for yield-based wheat phenotyping, presenting an al- gorithm that empowers farmers and agricultural researchers to assess crop yield performance in agricultural fields. We propose a methodology using combined classical image processing and advanced deep neural networks like YOLO, Fast- RCNN and SAM to segment and detect wheat heads from field images and count grains to make inference of the plant density in the field and average grain count per wheat head from the visual images.
+
