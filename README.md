@@ -10,5 +10,7 @@ For wheat grain counting, the detected wheat heads from the previous steps are c
 The developed solution works well in controlled as well as uncontrolled environment settings with the optimal sensor setup.
 <div align="center">
 <img width="800" alt="wheatHeadChart" src="https://github.com/user-attachments/assets/97d69294-f4b7-4abd-96f2-f9941adb4549">
+
+  
 <img width="600" alt="connectedComponentsGrain" src="https://github.com/user-attachments/assets/09f05eb6-09a2-408b-b781-d975fd615110">
 </div>
