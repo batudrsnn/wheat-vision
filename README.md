@@ -14,7 +14,7 @@ The developed solution works well in controlled as well as uncontrolled environm
 <div align="center">
 <img width="800" alt="wheatHeadChart" src="https://github.com/user-attachments/assets/97d69294-f4b7-4abd-96f2-f9941adb4549">
 <>
-<img width="679" alt="Screenshot 2024-12-02 at 15 22 22" src="https://github.com/user-attachments/assets/41bd8da4-4029-425c-a460-3bfd8fed4a3e">
+<img width="400" alt="Screenshot 2024-12-02 at 15 22 22" src="https://github.com/user-attachments/assets/41bd8da4-4029-425c-a460-3bfd8fed4a3e">
 <>
 <img width="600" alt="connectedComponentsGrain" src="https://github.com/user-attachments/assets/09f05eb6-09a2-408b-b781-d975fd615110">
 </div>
