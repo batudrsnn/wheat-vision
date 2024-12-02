@@ -8,5 +8,7 @@ For wheat head detection, Otsu thresholding with dilation is applied on the imag
 For wheat grain counting, the detected wheat heads from the previous steps are cropped out and then using Segment Anything Model (SAM) for segmentation and then connected components approach is used to count the grain masks in the wheat head. Further, intensity matching based approach is used to detect potential grains in the undetected grain area of the wheat head to further improve the accuracy of the grain estimates.
 
 The developed solution works well in controlled as well as uncontrolled environment settings with the optimal sensor setup.
+<div align="center">
 <img width="800" alt="wheatHeadChart" src="https://github.com/user-attachments/assets/97d69294-f4b7-4abd-96f2-f9941adb4549">
 <img width="600" alt="connectedComponentsGrain" src="https://github.com/user-attachments/assets/09f05eb6-09a2-408b-b781-d975fd615110">
+</div>
